@@ -1,0 +1,68 @@
+form{
+    width: 500px;
+    padding: 5px;
+    margin: auto;
+    line-height: 35px;
+}
+*{
+    background-color: rgba(210, 232, 210, 0.786);
+}
+.label1{
+    display: block;
+}
+input{
+    padding: 5px 100px;
+    border: none;
+    border-bottom: 2px solid blue;
+}
+label{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 40px;
+}
+h1{
+    text-align: left;
+    background-color: rgba(137, 173, 139, 0.714);
+    line-height: 100px;
+}
+input[type=radio]{
+    cursor: pointer;
+    position: relative;
+}
+.button1{
+    padding: 12px 6px;
+    margin-left: 500px;
+    background-color: green;
+    width: 400px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.button2{
+    width: 500px;
+    background-color: rgb(91, 91, 246);
+    padding: 10px;
+    font-style: italic;
+    margin-left: 500px;
+    font-size: large;
+    border-radius: 8px;
+}
+select{
+    background-color: rgba(24, 129, 233, 0.933);
+    padding: 8px 6px;
+    width: 200px;
+    border-radius: 5px;
+}
+.div1{
+    border: 2px solid black;
+    border-radius: 6px;
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: rgba(191, 233, 191, 0.808);
+}
+a{
+    color: black;
+    background-color: rgb(91, 91, 246);
+    text-decoration: none;
+}

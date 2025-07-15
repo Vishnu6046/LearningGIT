@@ -1,0 +1,46 @@
+.page1{
+    margin: 200px auto;
+    border: 3px solid;
+    border-radius: 10px; 
+    text-align: center;
+    padding: 10px;
+    width: 500px;
+    box-shadow: 0 0 20px rgba(19, 3, 243, 0.814);
+    background-color: rgba(255, 255, 255, 0.577);
+}
+form{
+    padding: 20px;
+    width: 200px;
+    margin: auto;
+}
+a{
+    display: block;
+    padding: 5px;
+}
+body{
+    background-image: url(bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    border-color: aqua;
+}
+button{
+    background-color: hsla(249, 66%, 23%, 0.819);
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    margin-bottom: 10px;
+}
+.link1{
+    font-style: italic;
+    color: aliceblue;
+}
+h1{
+    font-style: oblique;
+    background-color: rgba(165, 165, 42, 0.219);
+
+}
+#login{
+    text-decoration: none;
+}
