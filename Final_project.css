@@ -1,0 +1,196 @@
+.bg-image{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f562aaf4-5dbb-4603-a32b-6ef6c2230136/dh0w8qv-9d8ee6b2-b41a-4681-ab9b-8a227560dc75.jpg/v1/fill/w_1280,h_720,q_75,strp/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZjU2MmFhZjQtNWRiYi00NjAzLWEzMmItNmVmNmMyMjMwMTM2XC9kaDB3OHF2LTlkOGVlNmIyLWI0MWEtNDY4MS1hYjliLThhMjI3NTYwZGM3NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LOYKSxIDqfPwWHR0SSJ-ugGQ6bECF0yO6Cmc0F26CQs);
+    background-color: #000000bc;
+    background-blend-mode: darken;
+}
+.bg-color{
+    background-color: black;
+    border-top: 3px solid red;
+}
+.mainhead{
+    color: white;
+    text-align: center;
+    padding-top: 160px;
+    font-weight: bolder;
+    padding-bottom: 170px;
+}
+.mainhead1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+input[type=email]{
+    background-color: rgba(0, 0, 0, 0.625);
+    border: 1px solid white;
+    height: 60px;
+    width: 350px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+input::placeholder{
+    color: rgb(188, 187, 187);
+    font-size: medium;
+}
+.col-sm-3{
+    border: 10px solid rgb(0, 0, 0);
+    color: white;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom right, rgb(64, 36, 98), rgba(160, 30, 30, 0.289));
+    padding: 20px;
+}
+.tophead{
+    font-family: sans-serif;
+    color: rgb(234, 8, 8);
+    font-weight: 750;
+}
+input[type=submit]{
+    background-color: rgb(198, 10, 10);
+    height: 60px;
+    width: 200px;
+    font-weight: 700;
+    font-size: x-large;
+    margin-bottom: 5px;
+}
+input[type=email]:focus{
+    border: 3px outset whitesmoke;
+}
+.collapsebutton{
+    width: 100%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.327);
+    font-size: larger;
+}
+.btn-secondary{
+    width: 100%;
+    text-align: left;
+    height: 75px;
+    font-size: larger;
+    padding-left: 20px;
+    border: 5px solid black;
+    border-radius: 1px;
+    background-color: rgba(88, 75, 75, 0.6);
+}
+.login2{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.collapse{
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.51);
+}
+.btn-secondary:hover{
+    background-color: rgba(63, 58, 58, 0.375);
+    border: 1px hidden black;
+}
+.btn-secondary::after{
+    content: '\02795';
+    font-size: 20px;
+    color: rgb(246, 246, 246);
+    float: right;
+    margin-left: 5px;
+}
+#h1{
+    background-image: url("https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQE80DzVnoyQKY6bylKJDQrWWTEpLyDu0-4rMXgYfqEqnL9qigM1WGcjI0A8hDxoqDQqfor2aTapQ_BoAVtVAEouBocCfQ7qXomt.jpg?r=f07");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h2{
+    background-image: url("https://images.filmibeat.com/img/2025/05/hit3main-1748425244.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h3{
+    background-image: url("https://i.cdn.newsbytesapp.com/images/l49920250613163803.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h4{
+    background-image: url("https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABYFQ0SxFpm4dUv5BluciWNYE1qWCQ76iwFjqV925_mboKKgNw-idFUVC9qoWjA5fD5Tc1iTgP0aP0QakuDnRGtclgVwcFgipZjln.jpg?r=641");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h5{
+    background-image: url("https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQW_aQOttEhhFXTKXa237Hkty6zyK2syxw7iUEcQ_Hv0Pd0BZzvCpBfsY2Mfg6pkbQydUbJ1zD8VwjHr8auoAVKthlTxhWrimoKc.jpg?r=d40");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h6{
+    background-image: url("https://www.koimoi.com/wp-content/new-galleries/2025/04/retro-ticket-sales-01.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h7{
+    background-image: url("https://images.moneycontrol.com/static-mcnews/2025/03/20250323094055_Salman-Khan-and-Rashmika-Mandanna-co-starred-in-Sikandar.png?impolicy=website&width=1600&height=900");
+    background-repeat: no-repeat;
+    background-size: contain;
+}   
+#h8{
+    background-image: url("https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABYhSMg1puZ987AVrDGVNN89kQOgRjgJRcr0rNIiYNiCzuA9eVMsgC5IAhvdhTiMKPNeEZnDhSF7hBbJU8C9SiimwvRAJBdWudZnt.jpg?r=1ff");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h9{
+    background-image: url("https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABXh_7lEHmA0e2qsOIdRewfUswbvZm3mAAKqOFUNioJdE9L5PiiWsOEgv8xOAB6jjejAa4DI0kyxEpmeDvkXbNFBDsdcFm9b4mEcf.jpg?r=4fe");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#h10{
+    background-image: url("https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABYDdQ9rG9VrZ0uME1Q_oxZFAQf6zYitnkAu-cqeNdNzi2VVQ7UHzgIkaNa3MBUWYIB7ihKkSiTxR4bpRY2NTlXUcOcQkSLEdCGxX.jpg?r=8e0");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.scrollmenu{
+    overflow: auto;
+    white-space: nowrap;
+    scrollbar-width: 10px;
+}
+.modal-footer{
+    border: 0px;
+    background-color: black;
+}
+.modal-header{
+    border: 0px;
+}
+.modal-body{
+    text-align: left;
+    margin-top: 300px;
+    background-color: black;
+}
+.um1{
+    display: inline;
+    background-color: gray;
+    color: white;
+}
+.modal{
+    margin-top: 50px;
+    border-radius: 30px;
+}
+li{
+    display: inline;
+}
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.dropdown-toggle{
+    background-color: rgba(0, 0, 0, 0.279);
+    color: white;
+    border: 1px solid white;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+}
+#sign{
+    width: 100px;
+    height: 30px;
+    margin-left: 5px;
+    text-align: center;
+}
+a{
+    color: rgb(165, 163, 163);
+}
+p{
+    color: white;
+}
